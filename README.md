@@ -41,15 +41,40 @@ Gosto de aprender na prática: cada conteúdo novo vira um commit, e cada semana
 
 ## 🚀 Projetos
 
-<p align="center">
-  <a href="https://gabrielevaristo77.github.io/painel-de-estudos/">
-    <img src="https://raw.githubusercontent.com/GabrielEvaristo77/painel-de-estudos/main/assets/print.png" alt="Print do Painel de estudos" width="70%">
-  </a>
-</p>
-
-| Projeto | O que é | Tecnologias | Links |
-|---|---|---|---|
-| **Painel de estudos** | Registro diário dos meus estudos, transformado em um painel com resumo de horas e sequência de dias seguidos. | HTML · CSS · JavaScript | [Ver site](https://gabrielevaristo77.github.io/painel-de-estudos/) · [Código](https://github.com/GabrielEvaristo77/painel-de-estudos) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gabrielevaristo77.github.io/plano-de-corte/">
+        <img src="https://raw.githubusercontent.com/GabrielEvaristo77/plano-de-corte/main/assets/print.png" alt="Plano de Corte">
+      </a>
+      <h3>🪚 Plano de Corte</h3>
+      <p>Otimizador de chapas: calcula o encaixe das peças com cortes em guilhotina, descontando serra, refilo e veio, e desenha o plano de cada chapa.</p>
+      <p><code>JavaScript</code> <code>algoritmos</code> <code>SVG</code> <code>testes</code></p>
+      <a href="https://gabrielevaristo77.github.io/plano-de-corte/">Ver site</a> · <a href="https://github.com/GabrielEvaristo77/plano-de-corte">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://gabrielevaristo77.github.io/clima-agora/">
+        <img src="https://raw.githubusercontent.com/GabrielEvaristo77/clima-agora/main/assets/print.png" alt="Clima Agora">
+      </a>
+      <h3>🌤️ Clima Agora</h3>
+      <p>Previsão do tempo com busca de cidades, gráfico das próximas 24 horas, previsão da semana e favoritos, consumindo a API Open-Meteo.</p>
+      <p><code>JavaScript</code> <code>API REST</code> <code>async/await</code> <code>testes</code></p>
+      <a href="https://gabrielevaristo77.github.io/clima-agora/">Ver site</a> · <a href="https://github.com/GabrielEvaristo77/clima-agora">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gabrielevaristo77.github.io/painel-de-estudos/">
+        <img src="https://raw.githubusercontent.com/GabrielEvaristo77/painel-de-estudos/main/assets/print.png" alt="Painel de estudos">
+      </a>
+      <h3>📚 Painel de estudos</h3>
+      <p>Registro diário dos meus estudos, transformado em um painel com resumo de horas e sequência de dias seguidos.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>CSV</code></p>
+      <a href="https://gabrielevaristo77.github.io/painel-de-estudos/">Ver site</a> · <a href="https://github.com/GabrielEvaristo77/painel-de-estudos">Código</a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/GabrielEvaristo77?tab=repositories">
