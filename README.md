@@ -41,6 +41,12 @@ Gosto de aprender na prática: cada conteúdo novo vira um commit, e cada semana
 
 ## 🚀 Projetos
 
+<p align="center">
+  <a href="https://gabrielevaristo77.github.io/painel-de-estudos/">
+    <img src="https://raw.githubusercontent.com/GabrielEvaristo77/painel-de-estudos/main/assets/print.png" alt="Print do Painel de estudos" width="70%">
+  </a>
+</p>
+
 | Projeto | O que é | Tecnologias | Links |
 |---|---|---|---|
 | **Painel de estudos** | Registro diário dos meus estudos, transformado em um painel com resumo de horas e sequência de dias seguidos. | HTML · CSS · JavaScript | [Ver site](https://gabrielevaristo77.github.io/painel-de-estudos/) · [Código](https://github.com/GabrielEvaristo77/painel-de-estudos) |
