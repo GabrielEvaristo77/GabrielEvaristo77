@@ -2,7 +2,7 @@
 <rect width="840" height="230" rx="14" fill="#0b1220" stroke="#1f3a68"/>
 <text x="24" y="36" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#60a5fa" letter-spacing="2">ATIVIDADE NO GITHUB</text>
 <rect x="24" y="58" width="188" height="64" rx="10" fill="#0f1b33" stroke="#1d2b47"/>
-<text x="40" y="90" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#f1f5f9">7</text>
+<text x="40" y="90" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#f1f5f9">6</text>
 <text x="40" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94a3b8">commits em 2026</text>
 <rect x="224" y="58" width="188" height="64" rx="10" fill="#0f1b33" stroke="#1d2b47"/>
 <text x="240" y="90" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#f1f5f9">2</text>
@@ -14,15 +14,15 @@
 <text x="240" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#f1f5f9">2</text>
 <text x="240" y="186" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94a3b8">repositórios</text>
 <text x="448" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">Linguagens mais usadas</text>
-<rect x="448.0" y="90" width="244.6" height="10" fill="#3b82f6"/>
-<rect x="692.6" y="90" width="80.8" height="10" fill="#60a5fa"/>
-<rect x="773.4" y="90" width="42.6" height="10" fill="#93c5fd"/>
+<rect x="448.0" y="90" width="311.3" height="10" fill="#3b82f6"/>
+<rect x="759.3" y="90" width="37.8" height="10" fill="#60a5fa"/>
+<rect x="797.1" y="90" width="18.9" height="10" fill="#93c5fd"/>
 <rect x="448" y="90" width="368" height="10" rx="5" fill="none" stroke="#0b1220" stroke-width="2"/>
 <circle cx="453" cy="124" r="5" fill="#3b82f6"/>
-<text x="464" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#cbd5e1">JavaScript <tspan fill="#64748b">66,5%</tspan></text>
+<text x="464" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#cbd5e1">JavaScript <tspan fill="#64748b">84,6%</tspan></text>
 <circle cx="643" cy="124" r="5" fill="#60a5fa"/>
-<text x="654" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#cbd5e1">CSS <tspan fill="#64748b">22,0%</tspan></text>
+<text x="654" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#cbd5e1">CSS <tspan fill="#64748b">10,3%</tspan></text>
 <circle cx="453" cy="150" r="5" fill="#93c5fd"/>
-<text x="464" y="154" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#cbd5e1">HTML <tspan fill="#64748b">11,6%</tspan></text>
+<text x="464" y="154" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#cbd5e1">HTML <tspan fill="#64748b">5,1%</tspan></text>
 <text x="816" y="214" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#475569">atualizado em 30/10/2026</text>
 </svg>
