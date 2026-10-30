@@ -44,7 +44,6 @@ Gosto de aprender na prática: cada conteúdo novo vira um commit, e cada semana
 | Projeto | O que é | Tecnologias | Links |
 |---|---|---|---|
 | **Painel de estudos** | Registro diário dos meus estudos, transformado em um painel com resumo de horas e sequência de dias seguidos. | HTML · CSS · JavaScript | [Ver site](https://gabrielevaristo77.github.io/painel-de-estudos/) · [Código](https://github.com/GabrielEvaristo77/painel-de-estudos) |
-| **Pequenos Valores** | Site acadêmico em equipe sobre pequenos gastos e consumo consciente (disciplina de Front-End). | HTML · CSS | Em breve |
 
 <p align="center">
   <a href="https://github.com/GabrielEvaristo77?tab=repositories">
