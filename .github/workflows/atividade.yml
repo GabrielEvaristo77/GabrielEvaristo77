@@ -1,0 +1,32 @@
+name: Atualizar cartão de atividade
+
+on:
+  schedule:
+    - cron: '17 9 * * *'   # todo dia, 06:17 em Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/atividade.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Gerar cartão
+        run: node scripts/gerar-atividade.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USUARIO: ${{ github.repository_owner }}
+      - name: Salvar se mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add assets/atividade.svg
+          git diff --cached --quiet || (git commit -m "atualiza cartão de atividade" && git push)

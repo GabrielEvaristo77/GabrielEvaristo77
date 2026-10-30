@@ -57,11 +57,10 @@ Gosto de aprender na prática: cada conteúdo novo vira um commit, e cada semana
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielEvaristo77&show_icons=true&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvaristo77&layout=compact&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="assets/atividade.svg" alt="Atividade no GitHub: commits no ano, dias seguidos, dias ativos, repositórios e linguagens mais usadas" width="100%">
 </p>
 
-<sub>Os cartões acima vêm de um serviço externo e podem ficar fora do ar de vez em quando.</sub>
+<sub>Cartão gerado automaticamente todo dia pelo GitHub Actions.</sub>
 
 ---
 
