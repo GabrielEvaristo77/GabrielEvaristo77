@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0f1b33"/>
+    </linearGradient>
+    <pattern id="grade" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1d2b47" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="840" height="220" rx="14" fill="url(#g)"/>
+  <rect x="540" y="0" width="300" height="220" fill="url(#grade)" opacity=".7"/>
+  <rect width="840" height="220" rx="14" fill="none" stroke="#1f3a68"/>
+  <rect x="40" y="44" width="4" height="62" rx="2" fill="#3b82f6"/>
+  <text x="60" y="70" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#60a5fa" letter-spacing="2">OLÁ, EU SOU</text>
+  <text x="60" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#f1f5f9">Gabriel Evaristo</text>
+  <text x="40" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#cbd5e1">Estudante de Análise e Desenvolvimento de Sistemas · UNICID</text>
+  <text x="40" y="180" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="14" fill="#64748b">&gt; <tspan fill="#93c5fd">aprendendo em público, um commit por dia</tspan><tspan fill="#3b82f6">▍</tspan></text>
+  <g transform="translate(640 60)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="140" height="100" rx="10" fill="#0b1220" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="16" cy="16" r="4" fill="#3b82f6"/><circle cx="30" cy="16" r="4" fill="#1e3a8a"/><circle cx="44" cy="16" r="4" fill="#1e3a8a"/>
+    <path d="M24 48l14 12-14 12" stroke="#60a5fa" stroke-width="3"/>
+    <path d="M48 74h40" stroke="#60a5fa" stroke-width="3"/>
+  </g>
+</svg>

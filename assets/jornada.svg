@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200">
+<rect width="840" height="200" rx="14" fill="#0b1220" stroke="#1f3a68"/>
+<text x="24" y="36" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#60a5fa" letter-spacing="2">MINHA TRAJETÓRIA</text>
+<line x1="105" y1="84" x2="735" y2="84" stroke="#1e3a8a" stroke-width="3"/>
+<circle cx="105" cy="84" r="8" fill="#0b1220" stroke="#3b82f6" stroke-width="3"/>
+<text x="105" y="126" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Início</text>
+<text x="105" y="150" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Curso de Análise e</text>
+<text x="105" y="168" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Desenvolvimento de Sistemas</text>
+<circle cx="315" cy="84" r="8" fill="#0b1220" stroke="#3b82f6" stroke-width="3"/>
+<text x="315" y="126" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Front-End</text>
+<text x="315" y="150" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Primeiros sites com</text>
+<text x="315" y="168" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">HTML, CSS e JavaScript</text>
+<circle cx="525" cy="84" r="8" fill="#0b1220" stroke="#3b82f6" stroke-width="3"/>
+<text x="525" y="126" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Out/2026</text>
+<text x="525" y="150" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Painel de estudos no ar</text>
+<text x="525" y="168" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">com GitHub Pages</text>
+<circle cx="735" cy="84" r="14" fill="#3b82f6" opacity=".25"/>
+<circle cx="735" cy="84" r="8" fill="#3b82f6" stroke="#3b82f6" stroke-width="3"/>
+<text x="735" y="126" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#93c5fd">Agora</text>
+<text x="735" y="150" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">JavaScript + SQL,</text>
+<text x="735" y="168" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">um dia de cada vez</text>
+</svg>
